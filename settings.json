@@ -1,13 +1,13 @@
 {
-  "name": "NotGamerFleet",
+  "name": "NotGamerBOT",
   "bot-account": {
-    "username": "NotgamerFleet",
+    "username": "Notgaleet",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "KingDomSMP1331.aternos.me",
-    "port": 13957,
+    "port": 35185,
     "version": 1.16.5,
     "try-creative": false
   },
@@ -68,8 +68,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": TRUE,
+    "place-night": TRUE
   },
   "discord": {
     "enabled": false,
